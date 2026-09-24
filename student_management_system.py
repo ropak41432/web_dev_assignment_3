@@ -1,6 +1,3 @@
-# Student Management System using Python OOP concepts
-# Author: Ropak
-
 class Student:
     def __init__(self, name, student_id, email, age, department):
         self.name = name
